@@ -1,0 +1,9 @@
+# Cache
+.ipynb_checkpoints
+
+# Private files
+.env
+env
+
+# Notes
+todo.txt

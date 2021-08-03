@@ -1,0 +1,15 @@
+Date of Feed,Date Gams Seeded,CodeName,FeedName,Parasite,Exflag by me (%),Exflag from second source (%),Stage V Gams by me (%),Stage V Gams from second source (%),Hematocrit (%),Age of Gams (d),Culture Volume (mL),Total Mossie Pots,Gametocytaemia in feeder (%),Oocyst Average,Infection Prevalence (%),Notes,Hemocytometer
+06/23/2021,?,NF54 Thaw 4,Feed13,NF54 Leiden,0.652360515,?,0.7303370787,1.9,4,#VALUE!,,1,0.1,5,74,,
+06/23/2021,?,NF54 Thaw 7,Feed13,NF54 Leiden,-,?,0.4213483146,1.8,4,#VALUE!,,1,0.1,6,63,,
+06/23/2021,?,NF54 Thaw 9,Feed13,NF54 Leiden,-,?,1.04519774,1.8,4,#VALUE!,,1,0.1,4,69,,
+06/29/2021,06/13/2021,NF54 Farah,Feed14,NF54 Leiden,?,?,0.7945205479,1.7,4,16,,1,0.1,5,67,,
+06/29/2021,06/13/2021,NF54 Thaw 7,Feed14,NF54 Leiden,?,?,0.4,1.6,4,16,,1,0.1,20,100,,
+06/29/2021,06/13/2021,NF54 Thaw 9,Feed14,NF54 Leiden,?,?,,1.8,4,16,,1,0.1,19,69,,
+07/05/2021,06/21/2021,NF54 Farah,Feed15,NF54 Leiden,0.1298245614,?,0.3816793893,0.8,4,14,,1,0.1,1,18,,C1
+07/05/2021,06/21/2021,NF135 Farah,Feed15,NF135,0.03216374269,?,0.08571428571,0.5,4,14,,1,0.1,1,13,,C2
+07/15/2021,06/30/2021,NF54 Farah,Feed16,NF54 Leiden,0.497005988,?,0.3047091413,1.7,4,15,,1,0.1,,,,C2
+07/15/2021,06/30/2021,NF54 Thaw 7,Feed16,NF54 Leiden,0.2369477912,?,0.4864864865,2.1,4,15,,1,0.1,,,,C1
+07/15/2021,06/30/2021,NF54 Thaw 9,Feed16,NF54 Leiden,0.4074074074,?,0.5698005698,2,4,15,,1,0.1,,,,C2
+07/21/2021,07/05/2021,NF54 Thaw 7,Feed17,NF54 Leiden,0.203125,?,1.028571429,1.9,4,16,,1,0.1,,,,
+07/21/2021,07/05/2021,NF135 Farah,Feed17,NF135,0.02797202797,?,0.3867403315,1.5,4,16,,1,0.1,,,,
+07/21/2021,07/05/2021,NICK,Feed17,NICK(APL5G),0.222614841,?,1.022099448,1.8,4,16,,1,0.1,,,,
